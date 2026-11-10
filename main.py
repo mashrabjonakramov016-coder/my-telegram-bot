@@ -5,7 +5,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 # TOKEN yozilgan joyiga @BotFather'dan olgan o'z tokeningizni tirnoq ichiga yozing
-TOKEN = "TOKENINGIZNI_SHU_YERga_YOZING"
+TOKEN = "9039662652:AAGGGpI7LHZ_aXWSywsXguizxgmm6YxDQt4"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
